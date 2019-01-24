@@ -4,7 +4,7 @@ This is a theme for Kislak Center online exhibits, for Omeka Classic up to 2.6.0
 
 * Support for ShadowPage plugin
 * Layout removing traditional Omeka site navigation elements
-* Accessibility auto for Javascript accessibility, color contrast, and primary navigation
+* Accessibility audit for Javascript accessibility, color contrast, and primary navigation
 
 ## Contributing
 
